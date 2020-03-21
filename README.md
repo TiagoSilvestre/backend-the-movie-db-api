@@ -8,3 +8,8 @@ to manage the calls to the movie db api, where this class implements an interfac
 # Installation
 
 run `composer install` to install all dependencies and the lauch an web server to serve the application.
+
+## Application running on Heroku
+
+https://frontend-the-movie-db.herokuapp.com/
+
